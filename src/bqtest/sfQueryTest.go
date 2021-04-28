@@ -11,11 +11,8 @@ import (
 
 const (
 	user    = "cdm_ndxmetadata@nielsen.com"
-	pwd     = "0LfWjR62bZaHjJmrg3J7"
+	pwd     = ""
 	account = "nielsen_prod.east-us-2.azure"
-	//user    = "tony.john@nielsen.com"
-	//pwd     = "Snowing1"
-	//account = "nielsen.east-us-2.azure" /*UAT*/
 	db     = "CSNLSSYNDPI_PROD"
 	schema = "PUBLIC"
 	//warehouse = "CS_EXTRACT_WH2_UAT"          /*UAT*/
