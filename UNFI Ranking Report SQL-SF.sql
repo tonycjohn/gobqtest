@@ -1,4 +1,4 @@
---PDM_US_UNFI_RMS_CPS_1000572_4675_B *test comment*
+--PDM_US_UNFI_RMS_CPS_1000572_4675_B *test comment* *second comment*
 
 with parentquery as (
   select 
