@@ -1,4 +1,4 @@
---PDM_US_UNFI_RMS_CPS_1000572_4675_B
+--PDM_US_UNFI_RMS_CPS_1000572_4675_B *local
 
 with parentquery as (
   select 
