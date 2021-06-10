@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 --PDM_US_UNFI_RMS_CPS_1000572_4675_B *local
-=======
---PDM_US_UNFI_RMS_CPS_1000572_4675_B *new comment*
->>>>>>> 3f39bd3dae6393633e0c5d24c1da19edc1533372
 
 with parentquery as (
   select 
